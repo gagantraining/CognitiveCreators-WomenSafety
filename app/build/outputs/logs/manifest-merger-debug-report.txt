@@ -1,0 +1,332 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:2:1-110:12
+INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:2:1-110:12
+INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:2:1-110:12
+INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:2:1-110:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\05db43c4e357caa9ad1e2e1f35949a6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ca844f75e1c5ebd9622311372ea6c88d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e1b16859e7ce8ddf965fceee18e2a06\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\504285651d2d1215fca55dc98174c9bf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f6a83eda8c6edd08dec555c40c7e6232\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\c350802c5e257fffc952c495f1313694\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\7ead8c2fc1e2484dc4ca926fda5ddf07\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d5fe65d9ec8a774dff27c6af8933cb37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3a6249a316d6d24ce39a56ad08c030e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\07c68a1cceed40b46857cf1ad969491f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c1eb253f0d36ad33abbb53427b8bff97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e644bdc728b924f2227ad2bf4f682dd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7abf967c7fc4a7eca1cc5bc49fa7c556\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\40a87164c6c9208f0fbb2ad48cfafcb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\0fc3e42ca80ab6e9af8ad2e462fba107\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\633fe7ec96dcd7542957adcd32d28074\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dd56ef4d8ecf06d32fb2613ae2ab1394\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\5b243c7619d40a0ca359cbba6bc2d849\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5e01d49ae6452e560709da7e6b83070f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d1dbbfcd8f432aa4eb9311c7d8c307e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\82ba652ca691eec78beca29fee7987ac\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\668cb9779f103c4937f84cf31661ade7\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\a39f886f5c2f19ff23edee9cec4670a7\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\af2b8796111fa56d268cae7bc2601ee0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7e3a4b508be703977a6d0dc7cd8fe3a0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:2:1-110:12
+INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:2:1-110:12
+INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:2:1-110:12
+	package
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:2:1-110:12
+		INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:2:1-110:12
+		INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:6:22-69
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.CAMERA
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:15:5-69
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:15:22-66
+uses-feature#android.hardware.microphone
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:18:9-51
+uses-feature#android.hardware.telephony
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:21:9-50
+uses-feature#android.hardware.camera
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:24:5-60
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:24:19-57
+uses-feature#android.hardware.location
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:25:5-27:35
+	android:required
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:27:9-32
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:26:9-49
+uses-feature#android.hardware.location.gps
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:29:9-53
+application
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:32:5-108:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e1b16859e7ce8ddf965fceee18e2a06\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e1b16859e7ce8ddf965fceee18e2a06\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\504285651d2d1215fca55dc98174c9bf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\504285651d2d1215fca55dc98174c9bf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f6a83eda8c6edd08dec555c40c7e6232\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f6a83eda8c6edd08dec555c40c7e6232\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\c350802c5e257fffc952c495f1313694\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\c350802c5e257fffc952c495f1313694\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\7ead8c2fc1e2484dc4ca926fda5ddf07\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\7ead8c2fc1e2484dc4ca926fda5ddf07\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\5b243c7619d40a0ca359cbba6bc2d849\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\5b243c7619d40a0ca359cbba6bc2d849\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\82ba652ca691eec78beca29fee7987ac\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\82ba652ca691eec78beca29fee7987ac\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\668cb9779f103c4937f84cf31661ade7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\668cb9779f103c4937f84cf31661ade7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\a39f886f5c2f19ff23edee9cec4670a7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\a39f886f5c2f19ff23edee9cec4670a7\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:35:9-40
+	android:icon
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:34:9-40
+	android:allowBackup
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:33:9-35
+	android:theme
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:36:9-40
+activity#com.example.mayank.oneplussafety.Splash
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:37:9-45:20
+	android:screenOrientation
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:39:13-49
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:38:13-34
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.example.mayank.oneplussafety.MainActivity
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:46:9-48:52
+	android:screenOrientation
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:47:13-40
+activity#com.example.mayank.oneplussafety.PeopleSecond
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:49:9-51:52
+	android:screenOrientation
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:51:13-49
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:50:13-40
+receiver#com.example.mayank.oneplussafety.VolumeChangeReceiver
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:53:9-57:20
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:53:19-54
+intent-filter#action:name:android.media.VOLUME_CHANGED_ACTION
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:54:13-56:29
+action#android.media.VOLUME_CHANGED_ACTION
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:55:17-78
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:55:25-75
+activity#com.example.mayank.oneplussafety.People
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:59:9-61:52
+	android:screenOrientation
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:60:13-34
+activity#com.example.mayank.oneplussafety.Help
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:62:9-64:61
+	android:screenOrientation
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:63:13-32
+activity#com.example.mayank.oneplussafety.NavigationAlert
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:65:9-69:59
+	android:screenOrientation
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:67:13-68
+	android:theme
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:69:13-56
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:66:13-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:79:9-81:55
+	android:value
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:81:13-52
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:80:13-58
+activity#com.example.mayank.oneplussafety.NavigationComplaint
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:83:9-85:61
+	android:screenOrientation
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:85:13-49
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:84:13-47
+activity#com.example.mayank.oneplussafety.TabBars
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:86:9-88:61
+	android:screenOrientation
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:87:13-35
+activity#com.example.mayank.oneplussafety.AboutUs
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:89:9-91:61
+	android:screenOrientation
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:90:13-35
+activity#com.example.mayank.oneplussafety.RecievedCall
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:92:9-94:61
+	android:screenOrientation
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:94:13-49
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:93:13-40
+activity#com.example.mayank.oneplussafety.VoiceCallActivity
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:95:9-97:61
+	android:screenOrientation
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:97:13-49
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:96:13-45
+receiver#com.example.mayank.oneplussafety.MyBroadcastReceiver
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:100:9-65
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:100:19-53
+receiver#com.example.mayank.oneplussafety.CallBReciever
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:101:9-106:20
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:101:19-47
+intent-filter#action:name:call
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:103:13-105:29
+action#call
+ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:104:17-54
+	android:name
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml:104:25-44
+uses-sdk
+INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\05db43c4e357caa9ad1e2e1f35949a6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\05db43c4e357caa9ad1e2e1f35949a6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ca844f75e1c5ebd9622311372ea6c88d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ca844f75e1c5ebd9622311372ea6c88d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e1b16859e7ce8ddf965fceee18e2a06\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e1b16859e7ce8ddf965fceee18e2a06\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\504285651d2d1215fca55dc98174c9bf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\504285651d2d1215fca55dc98174c9bf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f6a83eda8c6edd08dec555c40c7e6232\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f6a83eda8c6edd08dec555c40c7e6232\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\c350802c5e257fffc952c495f1313694\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\c350802c5e257fffc952c495f1313694\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\7ead8c2fc1e2484dc4ca926fda5ddf07\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\7ead8c2fc1e2484dc4ca926fda5ddf07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d5fe65d9ec8a774dff27c6af8933cb37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d5fe65d9ec8a774dff27c6af8933cb37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3a6249a316d6d24ce39a56ad08c030e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3a6249a316d6d24ce39a56ad08c030e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\07c68a1cceed40b46857cf1ad969491f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\07c68a1cceed40b46857cf1ad969491f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c1eb253f0d36ad33abbb53427b8bff97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c1eb253f0d36ad33abbb53427b8bff97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e644bdc728b924f2227ad2bf4f682dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e644bdc728b924f2227ad2bf4f682dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7abf967c7fc4a7eca1cc5bc49fa7c556\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7abf967c7fc4a7eca1cc5bc49fa7c556\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\40a87164c6c9208f0fbb2ad48cfafcb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\40a87164c6c9208f0fbb2ad48cfafcb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\0fc3e42ca80ab6e9af8ad2e462fba107\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\0fc3e42ca80ab6e9af8ad2e462fba107\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\633fe7ec96dcd7542957adcd32d28074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\633fe7ec96dcd7542957adcd32d28074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dd56ef4d8ecf06d32fb2613ae2ab1394\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dd56ef4d8ecf06d32fb2613ae2ab1394\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\5b243c7619d40a0ca359cbba6bc2d849\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\5b243c7619d40a0ca359cbba6bc2d849\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5e01d49ae6452e560709da7e6b83070f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5e01d49ae6452e560709da7e6b83070f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d1dbbfcd8f432aa4eb9311c7d8c307e7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d1dbbfcd8f432aa4eb9311c7d8c307e7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\82ba652ca691eec78beca29fee7987ac\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\82ba652ca691eec78beca29fee7987ac\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\668cb9779f103c4937f84cf31661ade7\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\668cb9779f103c4937f84cf31661ade7\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\a39f886f5c2f19ff23edee9cec4670a7\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\a39f886f5c2f19ff23edee9cec4670a7\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\af2b8796111fa56d268cae7bc2601ee0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\af2b8796111fa56d268cae7bc2601ee0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7e3a4b508be703977a6d0dc7cd8fe3a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7e3a4b508be703977a6d0dc7cd8fe3a0\AndroidManifest.xml:20:5-44
+INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+		ADDED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\OneplusSafety\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f6a83eda8c6edd08dec555c40c7e6232\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f6a83eda8c6edd08dec555c40c7e6232\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f6a83eda8c6edd08dec555c40c7e6232\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f6a83eda8c6edd08dec555c40c7e6232\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\7ead8c2fc1e2484dc4ca926fda5ddf07\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\7ead8c2fc1e2484dc4ca926fda5ddf07\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\kushagra chauhan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\7ead8c2fc1e2484dc4ca926fda5ddf07\AndroidManifest.xml:24:13-58
